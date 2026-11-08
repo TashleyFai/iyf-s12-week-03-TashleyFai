@@ -4,17 +4,17 @@ This repository contains my Week 3 assignments for the IYF Weekend Academy Seaso
 
 ## About This Project
 
-This week, I learned how to use developer tools and improve my workflow as a beginner web developer.
+This week focuses on learning developer tools, managing project files, and understanding the workflow used by developers.
 
 ## Topics Covered
 
 - Terminal commands and navigation
 - File and folder management
-- Git and GitHub
-- Git branches and merging
-- Resolving merge conflicts
-- Writing professional commit messages
-- Project setup automation
+- Git and GitHub fundamentals
+- Version control and commits
+- Branching and merging
+- Merge conflict resolution
+- Bash scripting and project automation
 
 ## Tools Used
 
@@ -22,23 +22,35 @@ This week, I learned how to use developer tools and improve my workflow as a beg
 - GitHub
 - Git Bash
 - Visual Studio Code
+- HTML
+- CSS
 
-## Daily Challenges
+## Repository Structure
 
-The daily challenges are organised in the `daily-challenges` folder.
+- `daily-challenges/` – Daily challenge exercises and notes
+- `css/` – Stylesheets
+- `index.html` – Main portfolio page
+- `about.html` – About page
+- `projects.html` – Projects page
+- `contact.html` – Contact page
+- `new-project.sh` – Project setup script
+- `terminal-log.md` – Terminal practice notes
 
 ## Lessons Learned
 
-- How to create and manage files using GitHub.
-- How to use Git for version control.
-- Why clear commit messages are important.
-- How project files can be organised.
+- Using terminal commands to navigate directories.
+- Organising files and folders.
+- Understanding version control with Git.
+- Using GitHub to manage project files.
+- Writing clear commit messages.
+- Creating reusable project structures.
 
 ## Challenges Faced
 
-- Understanding the difference between local and remote repositories.
-- Learning how to navigate Git Bash.
-- Managing project files and folders.
+- Understanding terminal navigation.
+- Learning the difference between local and remote repositories.
+- Organising project files correctly.
+- Understanding Git commands and workflows.
 
 ## Author
 
