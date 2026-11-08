@@ -4,7 +4,7 @@ This repository contains my Week 3 assignments for the IYF Weekend Academy Seaso
 
 ## About This Project
 
-In this week, I am learning how to use developer tools and improve my workflow as a beginner web developer.
+This week, I learned how to use developer tools and improve my workflow as a beginner web developer.
 
 ## Topics Covered
 
@@ -15,6 +15,30 @@ In this week, I am learning how to use developer tools and improve my workflow a
 - Resolving merge conflicts
 - Writing professional commit messages
 - Project setup automation
+
+## Tools Used
+
+- Git
+- GitHub
+- Git Bash
+- Visual Studio Code
+
+## Daily Challenges
+
+The daily challenges are organised in the `daily-challenges` folder.
+
+## Lessons Learned
+
+- How to create and manage files using GitHub.
+- How to use Git for version control.
+- Why clear commit messages are important.
+- How project files can be organised.
+
+## Challenges Faced
+
+- Understanding the difference between local and remote repositories.
+- Learning how to navigate Git Bash.
+- Managing project files and folders.
 
 ## Author
 
