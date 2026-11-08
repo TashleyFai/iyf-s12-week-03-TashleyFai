@@ -7,11 +7,24 @@ if [ -z "$PROJECT_NAME" ]; then
     exit 1
 fi
 
-mkdir -p "$PROJECT_NAME"/{src,css,js,images,docs,tests}
+mkdir -p "$PROJECT_NAME/css"
 
-touch "$PROJECT_NAME/README.md"
-touch "$PROJECT_NAME/index.html"
+cat > "$PROJECT_NAME/index.html" << 'EOF'
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My New Project</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>My new web project.</p>
+</body>
+</html>
+EOF
+
 touch "$PROJECT_NAME/css/style.css"
-touch "$PROJECT_NAME/js/script.js"
 
 echo "Project $PROJECT_NAME created successfully!"
